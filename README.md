@@ -1,4 +1,5 @@
-# mift
+# MIFT
+(Muck In For Them)
 MIFT is a web application which connects ngo and volunteers through online.Using django framework and sqlite database
 STEP 1:
 MIFT_ENV\Scripts\activate.bat Enter in command prompt
